@@ -1,0 +1,1 @@
+f = open('C:\Users\palv4\Desktop\CultureX\tw\data.csv','w')
